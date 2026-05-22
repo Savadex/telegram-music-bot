@@ -1,1 +1,6 @@
 python-telegram-bot
+pyrogram
+tgcrypto
+pytgcalls
+yt-dlp
+ffmpeg-python
